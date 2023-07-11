@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaidik Modi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Adhir organization**
+- 🔭 I’m currently working at **Adhir organization**
 
 - 🌱 I’m currently learning **React native**
 
